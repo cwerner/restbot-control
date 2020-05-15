@@ -1,0 +1,5 @@
+requests
+uvicorn
+starlette
+streamlit
+
